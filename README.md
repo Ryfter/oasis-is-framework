@@ -1,6 +1,6 @@
 # oasis-is-framework - espanso package
 
-OASIS-IS a ChatGPT (or other chatbot) pompting mega framework, by [Rifter](https://github.com/Ryfter).  
+OASIS-IS a ChatGPT (or other chatbot) prompting mega framework, by [Rifter](https://github.com/Ryfter).  
 This creates a form that lets you fill out the OASIS-IS framework, helping you to get bettter results from using ChatGPT, Claude, and other chat interfaces.
 
 ## Usage
