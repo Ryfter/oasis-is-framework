@@ -5,7 +5,7 @@ This creates a form that lets you fill out the OASIS-IS framework, helping you t
 
 ## Usage
 
-There are two formats to using this framework.  
+There are two commands for using this framework inside of espanso.
 1. **:oasis** - ChatGPT ONLY: This is meant to be used in the URL of your browser, or elsewhere, and copied to your URL.  This creates a full URL string that opens up ChatGPT and inserts your prompt. This one also lets you choose the ChatGPT Model used.
 2. **:poasis** - This is for use in a prompt input box. It doesn't create a URL but adds the pieces of the OASIS-IS megaprompt to get you started for a conversation.  This works for any chatbot.
 
